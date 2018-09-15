@@ -4,8 +4,8 @@
 
 import requests, os, sys, tempfile, subprocess, base64, time
 
-__author__ = "Andrea Lazzarotto"
-__copyright__ = "Copyright 2014+, Andrea Lazzarotto"
+__author__ = "vishal Kumar"
+__copyright__ = "Copyright 2014+, vishal kumar"
 __license__ = "GPLv3"
 __version__ = "1.0"
 __maintainer__ = "Andrea Lazzarotto"
