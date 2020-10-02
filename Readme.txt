@@ -1,4 +1,5 @@
 For Linux user(Debian(kali,ubuntu),Darwin(Macos),etc.)
+If you are running the following code through any proxy it might not work as expected
 
 steps to use this tool
 
